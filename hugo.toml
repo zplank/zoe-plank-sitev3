@@ -1,0 +1,4 @@
+baseURL = 'https://zoe-plank-site.org/'
+languageCode = 'en-us'
+title = 'Zoe Plank Site'
+theme = 'ananke'
