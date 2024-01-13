@@ -2,6 +2,7 @@
 title = 'About Me'
 date = 2024-01-11T11:17:58-05:00
 draft = false
+page_panel = false
 +++
 
 {{% page_panel %}}

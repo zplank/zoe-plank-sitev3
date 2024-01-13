@@ -1,3 +1,7 @@
-<div class="page-panel">
-    {{ .Inner}}
-</div>
+<!-- layouts/shortcodes/page_panel.html -->
+
+{{ if .Get "page_panel" }}
+  <div class="page-panel">
+    {{ .Inner }}
+  </div>
+{{ end }}
