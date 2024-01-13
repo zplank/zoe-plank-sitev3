@@ -1,13 +1,8 @@
 +++
-title = 'Resume'
-date = 2024-01-11T11:25:02-05:00
+title = "Resume"
+date = 2024-01-13T10:00:00Z
 draft = false
-page_panel = true
 +++
-
-{{% page_panel %}}
-Find my resume below:
-
 
 ## Education
 
@@ -31,6 +26,3 @@ Find my resume below:
 ## Contact
 
 - Email: your@email.com
-
-
-{{% /page_panel %}}
