@@ -7,7 +7,7 @@ page_panel = true
 
 
 {{% page_panel %}}
-Connect with me! 
+Connect with me here! 
 
 https://www.linkedin.com/in/zoeplank/
 {{% /page_panel %}}
