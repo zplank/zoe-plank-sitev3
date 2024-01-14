@@ -1,0 +1,15 @@
+baseURL = 'https://zoe-plank-site.org/'
+languageCode = 'en-us'
+title = 'Zoe Plank Site'
+theme = 'ananke'
+
+#Metadata 
+description = "Welcome to my site! Take a look around to learn more about me."
+
+#Parameters 
+[params]
+  author = "Zoe Plank"
+  email = zoeplank@gmail.com
+  social = [
+    { name = "LinkedIn, url = https://www.linkedin.com/in/zoeplank/}
+  ]
