@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/zoepl/MSDS_GO_WEBSITE/zoe-plank-sitev2",
+	"sourceRoot": "C:/Users/zoepl/MSDS_GO_WEBSITE_V2",
 	"sources": [
 		"ananke/css/main.css"
 	],

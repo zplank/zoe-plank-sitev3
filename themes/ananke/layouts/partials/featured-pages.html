@@ -1,0 +1,12 @@
+<div class="sidebar">
+    <h2>Featured Pages</h2>
+    {{ $pages := where .Site.Pages "Section" "featured-pages" }}
+    {{ range $pages }}
+        <article>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <!-- Remove the preview content -->
+            <!-- <p>{{ .Summary }}</p> -->
+            <!-- <a href="{{ .Permalink }}">Read more</a> -->
+        </article>
+    {{ end }}
+</div>

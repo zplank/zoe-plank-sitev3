@@ -1,0 +1,14 @@
+.sidebar {
+    width: 300px; /* Adjust the width as needed */
+    float: right; /* Position on the right side */
+    margin-left: 20px; /* Add some margin for separation from the main content */
+}
+
+.sidebar h2 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.sidebar article {
+    margin-bottom: 20px;
+}
