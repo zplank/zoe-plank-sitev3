@@ -1,10 +1,11 @@
-+++
-title = 'Contact Me'
-date = 2024-01-11T11:17:58-05:00
-section = 'featured-pages'
-draft = false
-weight = 20
-+++
+---
+title: "Contact Me"
+date: 2024-01-11T11:25:02-05:00
+section: "featured-pages"
+draft: false
+weight: 25
+featured: true
+---
 
 
 # Contact Me

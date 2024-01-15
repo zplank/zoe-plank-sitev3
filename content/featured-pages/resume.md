@@ -1,10 +1,11 @@
-+++
-title = 'Resume'
-date = 2024-01-11T11:25:02-05:00
-section = 'featured-pages'
-draft = false
-weight = 10
-+++
+---
+title: "Resume"
+date: 2024-01-11T11:25:02-05:00
+section: "featured-pages"
+draft: false
+weight: 10
+featured: true
+---
 
 
 Find my resume below:
