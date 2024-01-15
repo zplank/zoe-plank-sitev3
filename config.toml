@@ -1,4 +1,4 @@
-baseURL = 'https://beautiful-wisp-ecd084.netlify.app/'
+baseURL = 'https://zoe-plank-site.netlify.app/'
 languageCode = 'en-us'
 title = 'Zoe Plank Site'
 theme = 'ananke'
@@ -8,8 +8,16 @@ description = "Welcome to my site! Take a look around to learn more about me."
 
 #Parameters 
 [params]
-  author = "Zoe Plank"
-  email = zoeplank@gmail.com
-  social = [
-    { name = "LinkedIn, url = https://www.linkedin.com/in/zoeplank/}
-  ]
+     name = "Zoe Plank"
+     bio = "Prospective MS in Data Science June 2024"
+     linkedin = "https://www.linkedin.com/in/zoeplank/"
+     github = "https://github.com/zplank/zoe-plank-sitev3/tree/master"
+     email = "zoeplank@gmail.com"
+
+[home]
+  content = "main-content"
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
