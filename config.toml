@@ -1,4 +1,4 @@
-baseURL = 'https://zoe-plank-site.org/'
+baseURL = 'https://beautiful-wisp-ecd084.netlify.app/'
 languageCode = 'en-us'
 title = 'Zoe Plank Site'
 theme = 'ananke'
