@@ -1,6 +1,7 @@
 +++
 title = 'Contact Me'
 date = 2024-01-11T11:17:58-05:00
+section = 'featured-pages'
 draft = false
 weight = 20
 +++
