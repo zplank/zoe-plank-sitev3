@@ -5,7 +5,6 @@ section: "featured-pages"
 draft: false
 weight: 25
 featured: true
-
 ---
 
 
