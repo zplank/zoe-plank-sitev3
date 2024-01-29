@@ -10,7 +10,7 @@ featured: true
 
 # Contact Me
 
-Feel free to reach out to me using the following contact methods:
+Feel free to reach out to me using any of the following contact methods:
 
 - Email: zoeplank@gmail.com
 - Phone: (555)555-5678
